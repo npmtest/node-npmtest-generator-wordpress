@@ -61,7 +61,7 @@
 <tspan x="10" y="938">    │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="954">    │   ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="970">    │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="986">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="986">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1002">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1018">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1034">    │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -83,8 +83,8 @@
 <tspan x="10" y="1290">    │   │ │   └── is-finite@1.0.2 </tspan>
 <tspan x="10" y="1306">    │   │ └── strip-indent@1.0.1 </tspan>
 <tspan x="10" y="1322">    │   └── trim-newlines@1.0.0 </tspan>
-<tspan x="10" y="1338">    ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1354">    │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1338">    ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1354">    │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1370">    ├── detect-conflict@1.0.1 </tspan>
 <tspan x="10" y="1386">    ├── diff@1.4.0 </tspan>
 <tspan x="10" y="1402">    ├─┬ download@4.4.3 </tspan>
@@ -182,7 +182,7 @@
 <tspan x="10" y="2874">    │ │ │ │ │ └─┬ readable-stream@2.2.9 </tspan>
 <tspan x="10" y="2890">    │ │ │ │ │   ├── isarray@1.0.0 </tspan>
 <tspan x="10" y="2906">    │ │ │ │ │   └── string_decoder@1.0.0 </tspan>
-<tspan x="10" y="2922">    │ │ │ │ └─┬ yauzl@2.7.0 </tspan>
+<tspan x="10" y="2922">    │ │ │ │ └─┬ yauzl@2.8.0 </tspan>
 <tspan x="10" y="2938">    │ │ │ │   ├── buffer-crc32@0.2.13 </tspan>
 <tspan x="10" y="2954">    │ │ │ │   └─┬ fd-slicer@1.0.1 </tspan>
 <tspan x="10" y="2970">    │ │ │ │     └── pend@1.2.0 </tspan>
@@ -289,7 +289,7 @@
 <tspan x="10" y="4586">    │ │ │ │ ├── filename-regex@2.0.0 </tspan>
 <tspan x="10" y="4602">    │ │ │ │ ├── is-extglob@1.0.0 </tspan>
 <tspan x="10" y="4618">    │ │ │ │ ├── is-glob@2.0.1 </tspan>
-<tspan x="10" y="4634">    │ │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="4634">    │ │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="4650">    │ │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="4666">    │ │ │ │ ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="4682">    │ │ │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
