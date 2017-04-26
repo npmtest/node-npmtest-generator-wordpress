@@ -1,6 +1,6 @@
 # npmtest-generator-wordpress
 
-#### test coverage for  [generator-wordpress (v2.0.2)](https://github.com/wesleytodd/YeoPress)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-wordpress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-wordpress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-wordpress.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-wordpress)
+#### basic test coverage for  [generator-wordpress (v2.0.2)](https://github.com/wesleytodd/YeoPress)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-wordpress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-wordpress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-wordpress.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-wordpress)
 
 #### A Yeoman generator for WordPress
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-wordpress/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-generator-wordpress/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-wordpress/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-wordpress/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-wordpress/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-wordpress/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-generator-wordpress/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-generator-wordpress/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-wordpress/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-wordpress/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-generator-wordpress/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-wordpress/build/coverage.html/index.html)
 
@@ -89,7 +89,8 @@
     "scripts": {
         "test": "node_modules/istanbul/lib/cli.js test node_modules/mocha/bin/_mocha --dir test/coverage"
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
